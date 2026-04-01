@@ -14,6 +14,8 @@
 Rangkaian 5 LED running menggunakan 5 buah LED yang dihubungkan ke pin digital Arduino dengan resistor sebagai pembatas arus.
 
 Konfigurasi rangkaian:
+<img width="990" height="774" alt="schematic 5 LED" src="https://github.com/user-attachments/assets/91d348ca-12cb-48eb-b8b3-eadf6d43b5f6" />
+
 
 | No | LED | Pin Arduino |
 |----|-----|-------------|
