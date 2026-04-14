@@ -1,21 +1,16 @@
-# 📘 Praktikum Sistem Tertanam
+# Praktikum Sistem Tertanam  Modul 3 - Protokol Komunikasi (I2C, UART, ADC)
 
-# Modul 3 - Protokol Komunikasi (I2C, UART, ADC)
-
-**Praktikum Pemrograman Sistem Tertanam**
-**Nama:** Revalina Fidiya Anugrah
-**NIM:** H1D023011
-**Shift Awal Praktikum:** A
-**Shift Akhir Praktikum:** Senin
+**Praktikum Pemrograman Sistem Tertanam**  
+**Nama:** Revalina Fidiya Anugrah  
+**NIM:** H1D023011  
+**Shift Awal Praktikum:** A  
+**Shift Akhir Praktikum:** Senin  
 
 ---
 
 # Deskripsi Percobaan
 
-Pada praktikum ini dilakukan pembacaan nilai analog dari **potensiometer** menggunakan **ADC Arduino**, kemudian hasilnya ditampilkan pada:
-
-* 📟 LCD menggunakan komunikasi **I2C**
-* 💻 Serial Monitor menggunakan komunikasi **UART**
+Pada praktikum ini dilakukan pembacaan nilai analog dari **potensiometer** menggunakan **ADC Arduino**, kemudian hasilnya ditampilkan pada LCD menggunakan komunikasi **I2C** dan Serial Monitor menggunakan komunikasi **UART**
 
 ---
 
